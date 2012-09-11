@@ -2306,7 +2306,7 @@ RFC 5545                       iCalendar                  September 2009
       BYDAY rule part with the FREQ rule part set to YEARLY corresponds
       to an offset within the month when the BYMONTH rule part is
       present, and corresponds to an offset within the year when the
-      BYWEEKNO or BYMONTH rule parts are present.  If an integer
+      BYWEEKNO or BYMONTH rule parts are not present.  If an integer
       modifier is not present, it means all days of this type within the
       specified frequency.  For example, within a MONTHLY rule, MO
       represents all Mondays within the month.  The BYDAY rule part MUST
