@@ -8149,7 +8149,7 @@ RFC 5545                       iCalendar                  September 2009
        SUMMARY:Submit Income Taxes
        BEGIN:VALARM
        ACTION:AUDIO
-       TRIGGER:19980403T120000Z
+       TRIGGER;VALUE=DATE-TIME:19980403T120000Z
        ATTACH;FMTTYPE=audio/basic:http://example.com/pub/audio-
         files/ssbanner.aud
        REPEAT:4
