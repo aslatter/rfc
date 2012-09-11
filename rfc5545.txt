@@ -9324,6 +9324,9 @@ A.1.  New Restrictions
    5.  The "DURATION" property can no longer appear in "VFREEBUSY"
        components.
 
+   6.  Use of the "charset" Content-Type parameter in MIME transports
+       is now mandatory.
+
 A.2.  Restrictions Removed
 
    1.  The "DTSTART" and "DTEND" properties are no longer required to be
