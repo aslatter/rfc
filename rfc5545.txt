@@ -402,8 +402,8 @@ RFC 5545                       iCalendar                  September 2009
               | HTAB                   | 9                 |
               | LF                     | 10                |
               | CR                     | 13                |
-              | DQUOTE                 | 34                |
               | SPACE                  | 32                |
+              | DQUOTE                 | 34                |
               | PLUS SIGN              | 43                |
               | COMMA                  | 44                |
               | HYPHEN-MINUS           | 45                |
