@@ -5057,7 +5057,7 @@ RFC 5545                       iCalendar                  September 2009
       representation, and language property parameters can be specified
       on this property.
 
-   Conformance:  This property can be specified once in "VEVENT" or
+   Conformance:  This property can be specified in "VEVENT" or
       "VTODO" calendar component.
 
    Description:  The property value is an arbitrary text.  More than one
