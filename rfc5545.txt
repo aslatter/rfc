@@ -6083,7 +6083,7 @@ RFC 5545                       iCalendar                  September 2009
    Example:  The following is an example of this property's use when
       another calendar user is acting on behalf of the "Attendee":
 
-       ATTENDEE;SENT-BY=mailto:jan_doe@example.com;CN=John Smith:
+       ATTENDEE;SENT-BY="mailto:jan_doe@example.com";CN=John Smith:
         mailto:jsmith@example.com
 
 3.8.4.2.  Contact
